@@ -1,130 +1,52 @@
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 10 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[TestNG] Running:
-  C:\Users\mabdu\AppData\Local\Temp\testng-eclipse--1330636487\testng-customsuite.xml
-
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[TestNG] Time taken by org.testng.internal.ExitCodeListener@49a64d82: 0 ms
-2024-11-26 18:53:54 INFO  Utils:112 -
-			[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@324dcd31: 18 ms
-2024-11-26 18:53:55 INFO  Utils:112 -
-			[TestNG] Time taken by org.testng.reporters.jq.Main@50d68830: 40 ms
-2024-11-26 18:53:55 INFO  Utils:112 -
-			[TestNG] Time taken by org.testng.reporters.FailedReporter@10ad20cb: 12 ms
-2024-11-26 18:53:55 INFO  Utils:112 -
-			[TestNG] Time taken by org.testng.reporters.XMLReporter@c20be82: 6 ms
-2024-11-26 18:53:55 INFO  Utils:112 -
-			[TestNG] Time taken by org.testng.reporters.EmailableReporter2@77b325b3: 6 ms
-2024-11-26 18:53:55 INFO  Utils:112 -
-			[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@51abf713: 16 ms
-2024-11-26 18:54:12 INFO  Utils:112 -
+2024-11-27 18:55:13 INFO  Utils:112 -
 			[TestNG] Running:
   C:\PS_QA\AutomationSept24\qa\testng.xml
 
-2024-11-26 18:54:14 INFO  LoginTest:52 -
+2024-11-27 18:55:16 INFO  LoginDDT:58 -
 			Launching application
-2024-11-26 18:54:16 INFO  LoginTest:16 -
+2024-11-27 18:55:19 INFO  LoginDDT:17 -
+			***** Starting Login DDT *****
+2024-11-27 18:55:21 INFO  LoginDDT:56 -
+			***** Finished Login DDT *****
+2024-11-27 18:55:21 INFO  LoginDDT:17 -
+			***** Starting Login DDT *****
+2024-11-27 18:55:37 INFO  LoginDDT:56 -
+			***** Finished Login DDT *****
+2024-11-27 18:55:37 INFO  LoginDDT:17 -
+			***** Starting Login DDT *****
+2024-11-27 18:55:54 INFO  LoginDDT:56 -
+			***** Finished Login DDT *****
+2024-11-27 19:13:01 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\PS_QA\AutomationSept24\qa\testng.xml
+
+2024-11-27 19:13:03 INFO  LoginDDT:58 -
+			Launching application
+2024-11-27 19:13:06 INFO  LoginDDT:17 -
+			***** Starting Login DDT *****
+2024-11-27 19:13:08 INFO  LoginDDT:56 -
+			***** Finished Login DDT *****
+2024-11-27 19:13:08 INFO  LoginDDT:17 -
+			***** Starting Login DDT *****
+2024-11-27 19:13:24 INFO  LoginDDT:56 -
+			***** Finished Login DDT *****
+2024-11-27 19:13:24 INFO  LoginDDT:17 -
+			***** Starting Login DDT *****
+2024-11-27 19:13:40 INFO  LoginDDT:56 -
+			***** Finished Login DDT *****
+2024-11-27 19:14:28 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\PS_QA\AutomationSept24\qa\testng.xml
+
+2024-11-27 19:14:29 INFO  LoginTest:58 -
+			Launching application
+2024-11-27 19:14:32 INFO  LoginTest:16 -
 			***** Starting Login Test *****
-2024-11-26 18:54:17 INFO  LoginTest:24 -
+2024-11-27 19:14:32 INFO  LoginTest:24 -
 			***** Clicked on login link under myAccount *****
-2024-11-26 18:54:17 INFO  LoginTest:28 -
+2024-11-27 19:14:32 INFO  LoginTest:28 -
 			***** Adding credentials *****
-2024-11-26 18:54:18 INFO  LoginTest:32 -
+2024-11-27 19:14:33 INFO  LoginTest:32 -
 			***** Clicked on login button *****
-2024-11-26 18:54:18 INFO  LoginTest:41 -
+2024-11-27 19:14:48 INFO  LoginTest:41 -
 			***** Login Test Completed *****
-2024-11-26 19:04:52 INFO  Utils:112 -
-			[TestNG] Running:
-  C:\PS_QA\AutomationSept24\qa\testng.xml
-
-2024-11-26 19:04:54 INFO  LoginTest:52 -
-			Launching application
-2024-11-26 19:04:56 INFO  LoginTest:16 -
-			***** Starting Login Test *****
-2024-11-26 19:04:56 INFO  LoginTest:24 -
-			***** Clicked on login link under myAccount *****
-2024-11-26 19:04:56 INFO  LoginTest:28 -
-			***** Adding credentials *****
-2024-11-26 19:04:57 INFO  LoginTest:32 -
-			***** Clicked on login button *****
-2024-11-26 19:04:57 INFO  LoginTest:41 -
-			***** Login Test Completed *****
-2024-11-26 19:41:25 INFO  Utils:112 -
-			[TestNG] Running:
-  C:\PS_QA\AutomationSept24\qa\testng.xml
-
-2024-11-26 19:41:27 INFO  LoginDDT:52 -
-			Launching application
-2024-11-26 19:41:30 INFO  LoginDDT:17 -
-			***** Starting Login DDT *****
-2024-11-26 19:41:32 INFO  LoginDDT:56 -
-			***** Finished Login DDT *****
-2024-11-26 19:41:32 INFO  LoginDDT:17 -
-			***** Starting Login DDT *****
-2024-11-26 19:41:49 INFO  LoginDDT:56 -
-			***** Finished Login DDT *****
-2024-11-26 19:41:49 INFO  LoginDDT:17 -
-			***** Starting Login DDT *****
-2024-11-26 19:42:05 INFO  LoginDDT:56 -
-			***** Finished Login DDT *****
