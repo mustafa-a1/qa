@@ -1,6 +1,7 @@
 package testCases;
 
 import org.testng.Assert;
+import org.testng.annotations.Test;
 
 import pageObjects.HomePage;
 import pageObjects.RegistrationPage;
@@ -8,8 +9,7 @@ import testBase.BaseClass;
 
 public class AccountRegistrationTest extends BaseClass {
 
-	
-	
+	@Test(groups = { "Sanity", "Master" })
 	public void validateAccountRegistration() {
 		logger.info("************** Starting Account Registration Test **************");
 		logger.debug("##### This is a debug log message #####");
@@ -49,11 +49,4 @@ public class AccountRegistrationTest extends BaseClass {
 
 	}
 
-
-	
-	
-	
-	
-	
-	
 }

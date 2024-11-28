@@ -27,7 +27,7 @@ public class BaseClass {
 	public Properties prop;
 	public Logger logger;
 
-	@BeforeClass
+	@BeforeClass(groups = { "Regression", "Master", "Ddt" })
 	@Parameters({ "OS", "browser" })
 	public void setUp(String os, String br) throws IOException {
 

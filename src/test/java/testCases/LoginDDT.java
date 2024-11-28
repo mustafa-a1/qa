@@ -11,7 +11,7 @@ import utilities.DataProviders;
 
 public class LoginDDT extends BaseClass {
 
-	@Test(dataProvider = "LoginData", dataProviderClass = DataProviders.class)
+	@Test(dataProvider = "LoginData", dataProviderClass = DataProviders.class, groups = "Ddt")
 	public void validate_loginDDT(String email, String password, String dataType) {
 
 		logger.info("***** Starting Login DDT *****");

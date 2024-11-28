@@ -7,10 +7,16 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="OS" value="Windows"/>
     <parameter name="browser" value="chrome"/>
+    <groups>
+      <run>
+        <include name="Master"/>
+        <include name="Sanity"/>
+        <include name="Regression"/>
+      </run>
+    </groups>
     <classes>
       <class name="testCases.LoginTest">
         <methods>
-          <include name="tearDown"/>
           <include name="validateLogin"/>
           <include name="setUp"/>
         </methods>

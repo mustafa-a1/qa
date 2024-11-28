@@ -50,3 +50,59 @@
 			***** Clicked on login button *****
 2024-11-27 19:14:48 INFO  LoginTest:41 -
 			***** Login Test Completed *****
+2024-11-27 19:28:51 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\PS_QA\AutomationSept24\qa\grouping.xml
+
+2024-11-27 19:28:52 INFO  LoginTest:58 -
+			Launching application
+2024-11-27 19:28:55 INFO  LoginTest:16 -
+			***** Starting Login Test *****
+2024-11-27 19:28:55 INFO  LoginTest:24 -
+			***** Clicked on login link under myAccount *****
+2024-11-27 19:28:55 INFO  LoginTest:28 -
+			***** Adding credentials *****
+2024-11-27 19:28:56 INFO  LoginTest:32 -
+			***** Clicked on login button *****
+2024-11-27 19:29:03 INFO  LoginTest:41 -
+			***** Login Test Completed *****
+2024-11-27 19:29:04 INFO  AccountRegistrationTest:58 -
+			Launching application
+2024-11-27 19:29:06 INFO  AccountRegistrationTest:14 -
+			************** Starting Account Registration Test **************
+2024-11-27 19:29:06 INFO  AccountRegistrationTest:20 -
+			Clicking on MyAccount
+2024-11-27 19:29:06 INFO  AccountRegistrationTest:47 -
+			******** Finished Account Registration Testing *********
+2024-11-27 19:29:21 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\PS_QA\AutomationSept24\qa\grouping.xml
+
+2024-11-27 19:29:23 INFO  LoginTest:58 -
+			Launching application
+2024-11-27 19:29:25 INFO  LoginTest:16 -
+			***** Starting Login Test *****
+2024-11-27 19:29:26 INFO  LoginTest:24 -
+			***** Clicked on login link under myAccount *****
+2024-11-27 19:29:26 INFO  LoginTest:28 -
+			***** Adding credentials *****
+2024-11-27 19:29:27 INFO  LoginTest:32 -
+			***** Clicked on login button *****
+2024-11-27 19:29:27 INFO  LoginTest:41 -
+			***** Login Test Completed *****
+2024-11-27 19:29:28 INFO  AccountRegistrationTest:58 -
+			Launching application
+2024-11-27 19:29:30 INFO  AccountRegistrationTest:14 -
+			************** Starting Account Registration Test **************
+2024-11-27 19:29:30 INFO  AccountRegistrationTest:20 -
+			Clicking on MyAccount
+2024-11-27 19:29:31 INFO  AccountRegistrationTest:23 -
+			Clicked on Register link
+2024-11-27 19:29:31 INFO  AccountRegistrationTest:28 -
+			Providing customer information
+2024-11-27 19:29:32 INFO  AccountRegistrationTest:40 -
+			Validataing expected message
+2024-11-27 19:29:32 INFO  AccountRegistrationTest:43 -
+			Account Registeration Test Passed
+2024-11-27 19:29:32 INFO  AccountRegistrationTest:47 -
+			******** Finished Account Registration Testing *********
